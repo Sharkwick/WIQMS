@@ -1,0 +1,5 @@
+TS is a Strong Types Language
+TS ia superset (javascipt + more..) of Java
+TS can use variable variables
+TS get compiled using Transpile (Convert TS --> JS)
+
